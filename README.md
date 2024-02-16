@@ -8,3 +8,5 @@ Notes:
 - There are canvas guides everywhere
     - Enable or disable them by clicking on the ruler at the top of the canvas
     - For optimal use enable “advanced snapping” (triangle top right) and untick all options except for “Guide Lines”
+
+<img width="933" alt="image" src="https://github.com/Benano/poster_template/assets/28686623/e703c60b-2e84-42b5-ad15-a67a7a65c947">
